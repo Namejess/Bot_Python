@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="find_discover_choose" />
+    <string name="already_have_an_account_login" />
+    <string name="join_now" />
+    <string name="todo">TODO</string>
+    <string name="already_have_an_account">Already have an account</string>
+</resources>
